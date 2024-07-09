@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  color: darkolivegreen;
+  background-color: black;
+  align-items: center;
+  font-size: 100px;
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  font-size: 50px;
+  background-color: white;
+}
+img {
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  align-items: center;
+}
+body {
+}
+.left-section {
+  float: left;
+  width: 65%;
+  margin-top: 50px;
+}
+.right-section {
+  float: right;
+  width: 50%;
+}
+.underline {
+  text-decoration: underline;
+}
+
+#top-banner-img {
+  border: 2px solid black;
+}
+#paragraph-1 {
+  font-size: 30px;
+  text-align: center;
+}
+#paragraph-2 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+#paragraph-3 {
+  font-size: 23px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-top: 145px;
+}
+#paragraph-foot {
+  font-size: 10px;
+  text-align: right;
+}
+.skill-list {
+  font-size: 30px;
+}
+#img-blue-black {
+  width: 30%;
+  margin-top: 100px;
+}
+#hr-foot {
+  margin-top: 180px;
+}
+#link-style {
+  font-size: 20px;
+  margin-left: 550px;
+}
